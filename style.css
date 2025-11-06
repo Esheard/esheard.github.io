@@ -1,0 +1,24 @@
+body, html {
+    background-color: #DEDEDE;
+    text-align: center;
+    margin: 0;
+
+}
+
+header {
+    background-color: #adadad;
+    margin: 0;
+    padding:0;
+    width:100vw;
+}
+
+button {
+    background-color: #1a1a1a;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+#asdf {
+    color:green;
+}
